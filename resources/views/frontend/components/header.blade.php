@@ -43,7 +43,7 @@
             <!--Thay đổi-->
             <div class="logo">
                 <a href="/" class="desktop">
-                    <img src="{{ url('images/logo8.jpg') }}" style="height: 90px; margin-top: 5px; width:auto;" alt="Home">
+                    <img src="{{ url('images/logo8.png') }}" style="height: 70px; margin-top: 5px; width:auto;" alt="Home">
                 </a>
                 <span class="menu js-menu-cate" style="margin-right: 30px;"><i class="fa fa-list-alt" aria-hidden="true"></i></span>
             </div>
